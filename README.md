@@ -42,6 +42,8 @@
 <h2> Master Resume:</h2>
 
 Here you'll find an up-to date version of my current and past activities
+ [Darleny-AA Master Resume](https://www.youtube.com/watch?v=N-L9hklSlNk)
+
 
 <h2> 🤳 Connect with me:</h2>
 
