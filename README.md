@@ -7,9 +7,9 @@
   - ART 2050: Basic Graphic Communications <b><i>[Completed]</b></i>
     - [Final Portfolio and Planning](https://github.com/Darleny-A/Final-Portfolio-and-planning/blob/main/README.md)
       - [Publications Project](https://github.com/Darleny-A/Publications-Project/blob/main/README.md)
-      - Design Your Phrase
-      - Logo Design
-      - Name Design
+      - [Design Your Phrase](https://github.com/Darleny-A/Design-Your-Phrase)
+      - [Logo Design](https://github.com/Darleny-A/Logo-Design)
+      - [Name Design](https://github.com/Darleny-A/Name-Design)
       - Further Planning Sketches 
 - <b>Flyer Projects</b>
   - [CreativFlare Marketing](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -17,7 +17,7 @@
 
 <h2>Class Presentations and Oral Compentence</h2>
 
-  - [COM 3150H:Honors Business Communications](https://github.com/joshmadakor1/AD_PS)
+  - [COM 3150H: Honors Business Communications](https://github.com/Darleny-A/COM-3150H-Honors-Business-Communications)
   - [COM 1010:Oral Communications](https://github.com/joshmadakor1/Algorithms-Practice) <b><i>[Completed]</b></i>
   - [BUS 2000: Business Fundamentals](https://github.com/joshmadakor1/Jwipe.PowerShell) <b><i>[Completed]</b></i>
     
