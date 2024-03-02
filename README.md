@@ -3,10 +3,10 @@
 <h2>🎨 Design Projects🖌️:</h2>
 
 - <b>Class Designs</b>
-  - [ART 3056:Typography:History and Design](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [ART 2050:Basic Graphic Communications](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>[Completed]</b></i>
-    -  Final Portfolio and Planning
-      - Publications Project
+  - ART 3056: Typography: History and Design
+  - ART 2050: Basic Graphic Communications <b><i>[Completed]</b></i>
+    - [Final Portfolio and Planning](https://github.com/Darleny-A/Final-Portfolio-and-planning/blob/main/README.md)
+      - [Publications Project](https://github.com/Darleny-A/Publications-Project/blob/main/README.md)
       - Design Your Phrase
       - Logo Design
       - Name Design
