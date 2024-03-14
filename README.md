@@ -12,37 +12,27 @@
       - [Name Design](https://github.com/Darleny-A/Name-Design)
       - Further Planning Sketches 
 - <b>Flyer Projects</b>
-  - [CreativFlare Marketing](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [BAL Alumni Board](https://github.com/joshmadakor1/Sentinel-Lab)
+  - CreativFlare Marketing
+  - BAL Alumni Board
 
 <h2>Class Presentations and Oral Compentence</h2>
 
   - [COM 3150H: Honors Business Communications](https://github.com/Darleny-A/COM-3150H-Honors-Business-Communications)
-  - [COM 1010:Oral Communications](https://github.com/joshmadakor1/Algorithms-Practice) <b><i>[Completed]</b></i>
-  - [BUS 2000: Business Fundamentals](https://github.com/joshmadakor1/Jwipe.PowerShell) <b><i>[Completed]</b></i>
+  - COM 1010:Oral Communications<b><i>[Completed]</b></i>
+  - BUS 2000: Business Fundamentals <b><i>[Completed]</b></i>
     
 - <b>Other Media Projects</b>
-  - [Podcast Episode](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Student Blog](https://github.com/joshmadakor1/DecrypterPOC)<b><i>[In the Making]</b></i>
+  - Podcast Episode
     
 <h2>🖼️ Traditional Artworks </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [How to get into Cybersecurity Starting From Zero]
+
 
 <h2> Certifications </h2>
 
 - [Google Project Management](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
-
-
-<h2> Master Resume:</h2>
-
-Here you'll find an up-to date version of my current and past activities
- [Darleny-AA Master Resume](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 
 <h2> 🤳 Connect with me:</h2>
